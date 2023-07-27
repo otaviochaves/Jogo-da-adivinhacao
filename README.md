@@ -9,7 +9,7 @@ Este é um simples jogo de adivinha feito em JavaScript como parte de um estudo 
 
 ## Como Jogar
 
-1. Abra o <a href="" target="_blank">LINK</a> em um navegador web compatível com JavaScript.
+1. Abra o <a href="https://otaviochaves.github.io/Jogo-da-adivinhacao/" target="_blank">LINK</a> em um navegador web compatível com JavaScript.
 
 2. Você verá uma caixa de entrada onde você pode digitar sua suposição.
 
