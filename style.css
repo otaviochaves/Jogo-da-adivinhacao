@@ -90,6 +90,7 @@ input {
     background: #dce2e9;
     width: 5rem;
     touch-action: none;
+    font-size: 16px;
     border-radius: 0.4rem 0 0 0.4rem;
 }
 
