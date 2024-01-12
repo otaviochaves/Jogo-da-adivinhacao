@@ -6,15 +6,6 @@ const h2Text = document.querySelector('.screen2 h2')
 let randomNumber = Math.round(Math.random() * 10) // foi trocado de const para let, para colocar lá embaixo
 let xAttempts = 1;
 
-document.addEventListener('click', (event) =>
-{
-    if (event.target !== inputVelocidadeDeCorte && event.target !== inputDiametroDaPeca)
-    {
-        inputVelocidadeDeCorte.blur();
-        inputDiametroDaPeca.blur();
-    }
-});
-
 
 btnTry.addEventListener('click', handleTryClick)
 btnReset.addEventListener('click', handleResetClick)
